@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dave Arrivas</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arrivas&label=Profile%20views&color=0e75b6&style=flat" alt="arrivas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrivas" alt="arrivas" /></a> </p>
-
 - 💬 Ask me about **React, React Native**
 
 - 📫 How to reach me **arrivasdave06@gmail.com**
