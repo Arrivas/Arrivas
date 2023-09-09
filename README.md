@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dave Arrivas</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 💬 Ask me about **React, React Native**
 
