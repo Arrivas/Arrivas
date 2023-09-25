@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dave Arrivas</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 💬 Ask me about **React, React Native**
-
 - 📫 How to reach me **dave.culaste@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
