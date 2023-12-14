@@ -30,6 +30,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Arrivas/Arrivas/pull/1) in [Arrivas/Arrivas](https://github.com/Arrivas/Arrivas)
+2. 💪 Opened PR [#1](https://github.com/Arrivas/Arrivas/pull/1) in [Arrivas/Arrivas](https://github.com/Arrivas/Arrivas)
 <!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
