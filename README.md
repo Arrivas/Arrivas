@@ -7,7 +7,8 @@
   <a href="https://github.com/sponsors/Arrivas"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
- How to reach me: [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dave.culaste@gmail.com)
+ How to reach me: 
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dave.culaste@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
