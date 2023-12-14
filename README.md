@@ -150,6 +150,15 @@
       height="30"
     />
   </a>
+   <a
+    href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"
+      style="object-fit: contain"
+      height="30"
+    />
+  </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
