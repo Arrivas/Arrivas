@@ -24,8 +24,12 @@
 
 [//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrivas&theme=onedark" alt="arrivas" /></a></p>)
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+---
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!--RECENT_ACTIVITY:last_update-->
 <!--RECENT_ACTIVITY:last_update_end-->
+---
