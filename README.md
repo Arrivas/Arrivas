@@ -7,7 +7,7 @@
   <a href="https://github.com/sponsors/Arrivas"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-📫 Reach me at: [dave.culaste@gmail.com](mailto:dave.culaste@gmail.com)
+- 📫 Reach me at: [dave.culaste@gmail.com](mailto:dave.culaste@gmail.com)
 - 💬 Ping me about **react**, **react native**, **nodejs**
 
 <h3 align="left">Connect with me:</h3>
