@@ -24,8 +24,4 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Arrivas&theme=react-dark&hide_border=true&area=true)
 
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<img align="right" height="330px" width="450px" src="https://wakatime.com/share/@018c6710-548a-4cf7-a9fb-f9c27751e643/b8e38769-1a3b-4f51-a843-eb3d13c23b28.svg" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrivas" alt="arrivas" /></a> </p>
