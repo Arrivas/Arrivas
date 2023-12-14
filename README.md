@@ -8,6 +8,7 @@
 </p>
 
 📫 Reach me at: [dave.culaste@gmail.com](mailto:dave.culaste@gmail.com)
+- 💬 Ping me about **react**, **react native**, **nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
