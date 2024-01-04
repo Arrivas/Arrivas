@@ -199,6 +199,4 @@
 1. 💪 Opened PR [#4](https://github.com/outsoarph/playbook/pull/4) in [outsoarph/playbook](https://github.com/outsoarph/playbook)
 2. 💪 Opened PR [#3](https://github.com/outsoarph/playbook/pull/3) in [outsoarph/playbook](https://github.com/outsoarph/playbook)
 <!--END_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 ---
