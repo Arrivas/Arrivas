@@ -196,12 +196,3 @@
 [//]: <> (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arrivas&theme=onedark" alt="arrivas" /></a></p>)
 
 ---
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/outsoarph/playbook/pull/14) in [outsoarph/playbook](https://github.com/outsoarph/playbook)
-2. 💪 Opened PR [#4](https://github.com/outsoarph/playbook/pull/4) in [outsoarph/playbook](https://github.com/outsoarph/playbook)
-<!--END_SECTION:activity-->
-
----
