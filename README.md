@@ -31,14 +31,13 @@
 
 - Over 2 years of JS dev experience
 - Worked with both [Node](https://nodejs.org/en) and [Bun](https://bun.sh/) runtimes
-- Worked with numerous libraries including, [Jest](https://jestjs.io/), [Vitest](https://vitest.dev/), and more
+- Worked with numerous libraries including, [Jest](https://jestjs.io/), [Cypress](https://www.cypress.io/), and more
 
 #### Web Development
 
-- Fluent in [React](https://vitest.dev/) and JSX
+- Fluent in [React](https://react.dev/) and JSX
 - Extensively worked with [Next.js](https://nextjs.org/) framework
 - Worked with CSS libraries including [styled-components](https://styled-components.com/) and [Tailwind](https://tailwindcss.com/)
-- Experience in popular libraries and frameworks like [Daisy UI](https://daisyui.com/), [React Redux](https://react-redux.js.org/), [useHooks](https://usehooks.com/), and more
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arrivas&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kevin's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrivas&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
